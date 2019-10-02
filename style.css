@@ -1,0 +1,118 @@
+ html {
+     font-family: 'Roboto';
+ }
+ 
+ nav {
+     width: 100%;
+ }
+ 
+ .headerbar {
+     float: right;
+     padding-right: 35px;
+ }
+ 
+ .headerbar a {
+     text-decoration: none;
+     color: #666666;
+     margin: 5px;
+ }
+ 
+ li {
+     list-style: none;
+     display: inline-block;
+     font-size: 14px;
+ }
+ 
+ a {
+     text-decoration: none;
+     color: #666666;
+ }
+ 
+ #signin {
+     background: #3369e8;
+     color: white;
+     margin-right: 25px;
+     padding: 7px 15px;
+     border-radius: 3px;
+     font-weight: bold;
+ }
+ 
+ a:hover {
+     text-decoration: underline;
+ }
+ 
+ .googleimg {
+     text-align: center;
+     display: block;
+     margin: 0 auto;
+     clear: both;
+     padding-top: 112px;
+     padding-bottom: 20px;
+ }
+ 
+ .SearchButtons {
+     text-align: center;
+     display: inline-block;
+     margin: 0 auto;
+     clear: both;
+     padding-top: 112px;
+     padding-bottom: 20px;
+     background-color: #666666;
+ }
+ 
+ input {
+     margin-top: 20px;
+     border: 1px solid lightgray;
+     border-radius: 20px;
+     padding: 0;
+     width: 33%;
+     height: 40px;
+ }
+ 
+ input:focus {
+     outline: none;
+ }
+ 
+ .buttons {
+     text-align: center;
+     padding-top: 30px;
+     margin-bottom: 300px;
+ }
+ 
+ button {
+     text-decoration: none;
+     font-weight: bold;
+     border-radius: 4px;
+     border: none;
+     padding: 10px;
+     margin: 8px;
+     margin-top: -15px;
+     background-color: #e7e7e7;
+     color: #7e7e7e;
+     cursor: pointer;
+ }
+ 
+ button:hover {
+     border: .5px solid lightgray;
+ }
+ 
+ footer {
+     background-color: #f1f1f1;
+     width: 100%;
+     height: 41px;
+     position: absolute;
+     bottom: 0;
+     left: 0;
+ }
+ 
+ .left {
+     float: left;
+ }
+ 
+ .right {
+     float: right;
+ }
+ 
+ span a {
+     margin: 5px;
+ }
